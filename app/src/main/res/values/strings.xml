@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="splash_messages">Something is coming …</string>
+    <string name="login_title">Movie App</string>
+    <string name="login_email_title">Email :</string>
+    <string name="login_email_hint">yourname@example.com</string>
+    <string name="login_password_title">Password :</string>
+    <string name="login_password_hint">min 8 char</string>
+    <string name="login_button">Login</string>
+    <string name="login_or_title">or</string>
+    <string name="login_google_button">Login with google</string>
+    <string name="login_apple_button">Login with apple</string>
+    <string name="dashboard_title">Movie DB</string>
+    <string name="dashboard_search_title">Search movie</string>
+    <string name="dashboard_search_hint">Search Here …</string>
+    <string name="dashboard_search_button">Search</string>
+    <string name="dashboard_categories_title">Categories</string>
+    <string name="item_movie_title">Movie Title:</string>
+    <string name="item_release_date">Release date:</string>
+    <string name="item_rating">Rating:</string>
+    <string name="info_title">Title</string>
+    <string name="info_summary_title">Summary</string>
+    <string name="info_summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="info_release_date">Release date</string>
+    <string name="info_rating">Rating</string>
+    <string-array name="movies_info">
+        <item>An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.</item>
+        <item>As a war between humankind and monstrous sea creatures wages on, a former pilot and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate effort to save the world from the apocalypse.</item>
+        <item>WALL-E follows a solitary robot on a future, uninhabitable, deserted Earth in 2805, left to clean up garbage. He is visited by a probe sent by the starship Axiom, a robot called EVE, with whom he falls in love and pursues across the galaxy</item>
+        <item>The son of a virtual world designer goes looking for his father and ends up inside the digital world that his father designed. He meets his father\'s corrupted creation and a unique ally who was born inside the digital world.</item>
+    </string-array>
+</resources>
